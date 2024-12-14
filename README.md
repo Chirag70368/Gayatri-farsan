@@ -71,7 +71,8 @@
         </div>
         <div class="product-card">
             <h3>Bhajias</h3>
-            <img src="https://www.example.com/bhajias.jpg" alt="Bhajias">
+            <img 
+                https://photos.app.goo.gl/yemCvifUweUN7NMm9src="https://www.example.com/bhajias.jpg" alt="Bhajias">
         </div>
         <div class="product-card">
             <h3>Fafda</h3>
@@ -79,7 +80,7 @@
         </div>
     </div>
 </section>
-
+<img src="images/An_elegant,_inviting_image_of_a_plate_of_tradition.png" alt="Snack Packet">
 <section>
     <h2>AI-Generated Snack Packets</h2>
     <div class="products">
@@ -94,7 +95,7 @@
     <h2>Contact Us</h2> 9924669584
     <form>
         <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name" required><br><br>
+        <input type="text" id="name" name="name" required><br><br> lomesh dhanani
         <label for="email">Email:</label><br>
         <input type="email" id="email" name="email" required><br><br>
         <label for="message">Message:</label><br>
